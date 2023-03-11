@@ -38,6 +38,8 @@
         (psi l1 u1 l3 u3)
         (psi l2 u2 l4 u4)
         (psi l3 u3 l4 u4)
+        (not (psi l1 u1 l4 u4))
+        (not (psi l2 u2 l3 u3))
     )
 )
 
